@@ -1,0 +1,15 @@
+.plane_btn {
+    width: 180px;
+height: 45px;
+    border:1px solid #f26d7a !important;
+    background: transparent;
+    color: #f26d7a;
+border-radius: 50px;
+transition: 1s ease all;
+
+
+}
+.plane_btn:hover{
+    background: #f26d7a !important;
+    color: #fff;
+}
